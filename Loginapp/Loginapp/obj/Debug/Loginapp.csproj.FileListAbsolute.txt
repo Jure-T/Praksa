@@ -1,0 +1,11 @@
+C:\Users\Jure\source\repos\Loginapp\Loginapp\bin\Debug\Loginapp.exe.config
+C:\Users\Jure\source\repos\Loginapp\Loginapp\bin\Debug\Loginapp.exe
+C:\Users\Jure\source\repos\Loginapp\Loginapp\bin\Debug\Loginapp.pdb
+C:\Users\Jure\source\repos\Loginapp\Loginapp\obj\Debug\Loginapp.csprojAssemblyReference.cache
+C:\Users\Jure\source\repos\Loginapp\Loginapp\obj\Debug\Loginapp.Form1.resources
+C:\Users\Jure\source\repos\Loginapp\Loginapp\obj\Debug\Loginapp.Properties.Resources.resources
+C:\Users\Jure\source\repos\Loginapp\Loginapp\obj\Debug\Loginapp.csproj.GenerateResource.cache
+C:\Users\Jure\source\repos\Loginapp\Loginapp\obj\Debug\Loginapp.csproj.CoreCompileInputs.cache
+C:\Users\Jure\source\repos\Loginapp\Loginapp\obj\Debug\Loginapp.exe
+C:\Users\Jure\source\repos\Loginapp\Loginapp\obj\Debug\Loginapp.pdb
+C:\Users\Jure\source\repos\Loginapp\Loginapp\obj\Debug\Loginapp.Form2.resources
