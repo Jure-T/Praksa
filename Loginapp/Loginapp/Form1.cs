@@ -18,10 +18,6 @@ namespace Loginapp
             InitializeComponent();
         }
 
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -31,10 +27,11 @@ namespace Loginapp
         private void button1_Click(object sender, EventArgs e)
         {
 
-            SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Jure\Documents\podatci.mdf;Integrated Security=True;Connect Timeout=30;");
-            SqlDataAdapter sda = new SqlDataAdapter("select Count(*) Form podatci ime='" + textBox1.Text + "' sifra ='" + textBox2.Text + "'",con);
+            SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Jure\Documents\podatci.mdf;Integrated Security=True;Connect Timeout=30");
+            SqlDataAdapter sda = new SqlDataAdapter("select Count(*) From podaci where ime='" + textBox1.Text + "' and sifra ='" + textBox2.Text + "'",con);
             DataTable dt = new DataTable();
             sda.Fill(dt);
+
 
             if (dt.Rows[0][0].ToString() == "1")
             {
@@ -47,7 +44,6 @@ namespace Loginapp
                 MessageBox.Show("Unjeli ste pogresno ime ili sifru");
             }
 
-            
         }
     }
 }
