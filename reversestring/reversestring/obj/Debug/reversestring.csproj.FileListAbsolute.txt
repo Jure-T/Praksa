@@ -1,0 +1,7 @@
+C:\Users\Jure\source\repos\reversestring\reversestring\bin\Debug\reversestring.exe.config
+C:\Users\Jure\source\repos\reversestring\reversestring\bin\Debug\reversestring.exe
+C:\Users\Jure\source\repos\reversestring\reversestring\bin\Debug\reversestring.pdb
+C:\Users\Jure\source\repos\reversestring\reversestring\obj\Debug\reversestring.csprojAssemblyReference.cache
+C:\Users\Jure\source\repos\reversestring\reversestring\obj\Debug\reversestring.csproj.CoreCompileInputs.cache
+C:\Users\Jure\source\repos\reversestring\reversestring\obj\Debug\reversestring.exe
+C:\Users\Jure\source\repos\reversestring\reversestring\obj\Debug\reversestring.pdb
