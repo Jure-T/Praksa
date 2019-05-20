@@ -1,0 +1,7 @@
+C:\Users\Jure\source\repos\BIOv2\BIOv2\obj\Debug\BIOv2.csprojAssemblyReference.cache
+C:\Users\Jure\source\repos\BIOv2\BIOv2\obj\Debug\BIOv2.csproj.CoreCompileInputs.cache
+C:\Users\Jure\source\repos\BIOv2\BIOv2\bin\Debug\BIOv2.exe.config
+C:\Users\Jure\source\repos\BIOv2\BIOv2\bin\Debug\BIOv2.exe
+C:\Users\Jure\source\repos\BIOv2\BIOv2\bin\Debug\BIOv2.pdb
+C:\Users\Jure\source\repos\BIOv2\BIOv2\obj\Debug\BIOv2.exe
+C:\Users\Jure\source\repos\BIOv2\BIOv2\obj\Debug\BIOv2.pdb

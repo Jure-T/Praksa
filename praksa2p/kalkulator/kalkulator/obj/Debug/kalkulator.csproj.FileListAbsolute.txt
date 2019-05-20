@@ -1,0 +1,7 @@
+C:\Users\Jure\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\Jure\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\Jure\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\Jure\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+C:\Users\Jure\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\Jure\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\Jure\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
